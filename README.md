@@ -15,11 +15,6 @@ The report delivers actionable insights into performance trends, customer behavi
 
 ---
 
-## 🖼️ Dashboard Preview  
-👉 */(C:\Users\Mashroor\Desktop\Portfolio Project 1 Excel Dashboard\Airbnb Hotel Management Booking Analysis-Dashboard new.)*  
-
----
-
 ## 💡 Recommendations  
 - Reduce heavy dependence on **Online Travel Agents (OTAs)**.  
 - Encourage **closer-to-arrival bookings** to lower cancellation risks.  
