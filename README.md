@@ -24,8 +24,8 @@ The report delivers actionable insights into performance trends, customer behavi
 ---
 
 ## ⚙️ Tools & Technologies  
-- **Power BI Desktop**  
-- **Data Modeling & Visualization**  
+- **Microsoft Excel**  
+- **Pivot Table**  
 - **Airbnb Booking Data**  
 
 ---
