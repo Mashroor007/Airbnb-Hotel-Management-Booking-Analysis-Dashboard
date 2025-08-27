@@ -1,7 +1,7 @@
 # 🏨 Hotel Management Dashboard — Airbnb  
 
 ## 📖 Overview  
-This project features an **interactive Power BI dashboard** designed to analyze **Airbnb hotel bookings, revenue, and cancellations**.  
+This project features an **interactive Excel dashboard** designed to analyze **Airbnb hotel bookings, revenue, and cancellations**.  
 The report delivers actionable insights into performance trends, customer behavior, and key business challenges.  
 
 ---
@@ -15,6 +15,10 @@ The report delivers actionable insights into performance trends, customer behavi
 
 ---
 
+## 🖼️ Dashboard Preview  
+👉 */(C:\Users\Mashroor\Desktop\Portfolio Project 1 Excel Dashboard\Airbnb Hotel Management Booking Analysis-Dashboard new.)*  
+
+---
 
 ## 💡 Recommendations  
 - Reduce heavy dependence on **Online Travel Agents (OTAs)**.  
